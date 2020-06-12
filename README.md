@@ -23,13 +23,13 @@ View the web app [here](https://gifted-jang-4e2d88.netlify.app/)
 
 ## Features
 
-## Created in VueJS
+- Created in VueJS
 
-## Mobile responsive
+- Mobile responsive
 
-## It is a progressive web-app
+- It is a progressive web-app
 
-## It works offline
+- It works offline
 
 ## Project setup
 ```
