@@ -2,6 +2,10 @@
 
 Data visualisation of Indian Premere League for 2008-2016 with [kaggle dataset](https://www.kaggle.com/harsha547/indian-premier-league-csv-dataset)
 
+# Live
+
+View the web app [here](https://gifted-jang-4e2d88.netlify.app/) 
+
 ## Libraries/frameworks used
 
 - `vuejs`: Vue Js is used as the main frontend framework. The app is built using the vue-cli tool that gives you the option to customize the plugins while bootstraping the project.
